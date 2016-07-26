@@ -6,7 +6,7 @@
         "web host automation platform",
         "third party gateway module",
         "gateway module",
-        "third party gateway",
+        "third party gateway"
     ],
     "homepage": "http://www.webwizo.com/",
     "license": "MIT",
@@ -19,6 +19,6 @@
         }
     ],
     "support": {
-        "email": "webwizo@gmail.com",
+        "email": "webwizo@gmail.com"
     }
 }
